@@ -1,0 +1,22 @@
+{
+  "Container": {
+    "Type": "Multiple",
+    "Weight": 1,
+    "Containers": [
+      {
+        "Type": "Single",
+        "Weight": 9,
+        "Item": {
+          "ItemId": "Ingredient_Fibre"
+        }
+      },
+      {
+        "Type": "Single",
+        "Weight": 1,
+        "Item": {
+          "ItemId": "Plant_Sapling_Cedar"
+        }
+      }
+    ]
+  }
+}

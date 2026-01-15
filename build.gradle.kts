@@ -5,8 +5,8 @@ plugins {
 }
 
 group = findProperty("pluginGroup") as String? ?: "com.kedo"
-version = findProperty("pluginVersion") as String? ?: "0.0.1"
-description = findProperty("pluginDescription") as String? ?: "A Hytale plugin template"
+version = findProperty("pluginVersion") as String? ?: "1.0.0"
+description = findProperty("pluginDescription") as String? ?: "A Hytale plugin that makes saplings drop from leaves. Applied to all tree types that I could."
 
 repositories {
     mavenLocal()
