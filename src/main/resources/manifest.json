@@ -1,7 +1,7 @@
 {
   "Group": "kedo",
   "Name": "[kedo] DroppingSaplings",
-  "Version": "1.0.0",
+  "Version": "1.0.1",
   "Description": "A Hytale plugin that makes saplings drop from leaves. Applied to all tree types that I could.",
   "Authors": [
     {

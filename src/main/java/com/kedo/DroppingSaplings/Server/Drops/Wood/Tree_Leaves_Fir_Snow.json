@@ -14,7 +14,7 @@
       },
       {
         "Type": "Single",
-        "Weight": 2,
+        "Weight": 3,
         "Item": {
           "ItemId": "Plant_Sapling_Spruce_Frozen",
           "QuantityMin": 1,

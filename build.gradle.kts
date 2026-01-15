@@ -5,7 +5,7 @@ plugins {
 }
 
 group = findProperty("pluginGroup") as String? ?: "com.kedo"
-version = findProperty("pluginVersion") as String? ?: "1.0.0"
+version = findProperty("pluginVersion") as String? ?: "1.0.1"
 description = findProperty("pluginDescription") as String? ?: "A Hytale plugin that makes saplings drop from leaves. Applied to all tree types that I could."
 
 repositories {
