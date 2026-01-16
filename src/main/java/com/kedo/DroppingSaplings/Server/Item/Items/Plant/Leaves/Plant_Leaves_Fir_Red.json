@@ -1,6 +1,6 @@
 {
   "TranslationProperties": {
-    "Name": "items.Plant_Leaves_Fir_Red.name"
+    "Name": "server.items.Plant_Leaves_Fir_Red.name"
   },
   "Icon": "Icons/ItemsGenerated/Plant_Fir_Leaves_Red.png",
   "Parent": "Plant_Leaves_Oak",
@@ -8,23 +8,7 @@
     "CustomModel": "Blocks/Foliage/Leaves/PineShape.blockymodel",
     "CustomModelTexture": [
       {
-        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine_0.png",
-        "Weight": 1
-      },
-      {
-        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine_1.png",
-        "Weight": 1
-      },
-      {
-        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine_2.png",
-        "Weight": 1
-      },
-      {
-        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine_3.png",
-        "Weight": 1
-      },
-      {
-        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine_4.png",
+        "Texture": "Blocks/Foliage/Leaves/PineShape_Textures/RedPine.png",
         "Weight": 1
       }
     ],
