@@ -1,11 +1,10 @@
 {
   "Container": {
     "Type": "Multiple",
-    "Weight": 1,
     "Containers": [
       {
         "Type": "Single",
-        "Weight": 20,
+        "Weight": 3,
         "Item": {
           "ItemId": "Ingredient_Fibre"
         }

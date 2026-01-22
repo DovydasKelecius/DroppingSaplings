@@ -13,6 +13,11 @@
       }
     ],
     "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
       "Soft": {
         "DropList": "Tree_Leaves_Dry"
       },

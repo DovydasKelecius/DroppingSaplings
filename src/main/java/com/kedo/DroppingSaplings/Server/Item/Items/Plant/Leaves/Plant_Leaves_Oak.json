@@ -28,6 +28,11 @@
     "Flags": {},
     "RandomRotation": "YawPitchRollStep1",
     "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
       "Soft": {
         "DropList": "Tree_Leaves_Oak"
       },
