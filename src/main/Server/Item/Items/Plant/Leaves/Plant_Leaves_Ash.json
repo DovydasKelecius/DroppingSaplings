@@ -1,0 +1,46 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Ash.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Ash_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ash_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ash_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ash_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ash_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Ash_4.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Tree_Leaves_Ash"
+      },
+      "Physics": {
+        "DropList": "Tree_Leaves_Physics_Ash"
+      }
+    },
+    "ParticleColor": "#156e38"
+  }
+}

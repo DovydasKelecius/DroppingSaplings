@@ -1,0 +1,46 @@
+{
+  "TranslationProperties": {
+    "Name": "server.items.Plant_Leaves_Birch.name"
+  },
+  "Icon": "Icons/ItemsGenerated/Plant_Birch_Leaves.png",
+  "Parent": "Plant_Leaves_Oak",
+  "BlockType": {
+    "CustomModel": "Blocks/Foliage/Leaves/Ball.blockymodel",
+    "CustomModelTexture": [
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Birch_0.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Birch_1.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Birch_2.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Birch_3.png",
+        "Weight": 1
+      },
+      {
+        "Texture": "Blocks/Foliage/Leaves/Ball_Textures/Birch_4.png",
+        "Weight": 1
+      }
+    ],
+    "Gathering": {
+      "Tools": [
+        {
+          "Type": "Shears"
+        }
+      ],
+      "Soft": {
+        "DropList": "Tree_Leaves_Birch"
+      },
+      "Physics": {
+        "DropList": "Tree_Leaves_Physics_Birch"
+      }
+    },
+    "ParticleColor": "#b8d526"
+  }
+}
